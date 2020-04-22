@@ -4,7 +4,7 @@
 
 def ready_correct(msg):
     """
-    -> Irá ler a entrada apenas de valores nos seguintes formatos: 0 / 0.00 / 0,00
+    -> Irá ler a entrada apenas de valores com os seguintes formatos: 0 | 0.00 | 0,00
     :param msg: Mensagem para a entrada do valor
     :return: Valor válido
     """
