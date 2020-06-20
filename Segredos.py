@@ -4,7 +4,7 @@ from os import system
 system('cls') # Irá limpar o terminal para que a exibição do programa se torne mais limpa
 
 print('\n\033[31mCR\033[34mIP\033[33mTEX\033[m \033[34mDI\033[31mGI\033[33mTAL\033[m')
-# Criptex seria uma palavra entrecuzada de criptologia e códice (codex).
+# Criptex seria uma palavra entrecruzada de criptologia e códice (codex).
 # Esse termo aparece na obra O Código Da Vinci, do escritor Dan Brown. Na obra se trata de um cofre cilíndrico.
 # Logo, o CRIPTEX DIGITAL é uma réplica desse cofre e irá armazenar todos os resultados em um arquivo txt em seu computador.
 
